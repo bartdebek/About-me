@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Bartosz Dębek and I am Civil Engineering bachelor who has been working in customs clearance analysis and guidance for 5 years and now trying to become Backend Developer.
-- 👀 I’m interested in entry Python Developer jobs.
+- 👋 Hi, I’m Bartosz Dębek and I am Civil Engineering bachelor who has been working in customs clearance analysis and guidance for 5 years and has now become Backend Developer.
+- 👀 I’m interested in entry Python\Django Developer jobs.
 - 🌱 I’m currently learning Django, SQL, Python, HTML and CSS.
 
 
