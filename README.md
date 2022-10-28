@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [F1 App](https://github.com/bartdebek/F1-App)
 
-- 🌱 I’m currently learning **Python, Django, REST API**
+- 🌱 I’m currently learning **Python, Django, REST API, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bartdebek](https://github.com/bartdebek)
 
