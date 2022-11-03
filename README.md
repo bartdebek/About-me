@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [F1 App](https://github.com/bartdebek/F1-App) and [F1 E-commerce Store](https://github.com/bartdebek/F1-STORE-REST-VUE)
 
-- 🌱 I’m currently learning **Python, Django, REST API, JavaScript**
+- 🌱 I’m currently learning **Python, Django, REST API, JavaScript, Vue.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bartdebek](https://github.com/bartdebek)
 
