@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bartosz</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 
-- 🔭 I’m currently working on [F1 App](https://github.com/bartdebek/F1-App)
+- 🔭 I’m currently working on [F1 App](https://github.com/bartdebek/F1-App) and [F1 E-commerce Store](https://github.com/bartdebek/F1-STORE-REST-VUE)
 
 - 🌱 I’m currently learning **Python, Django, REST API, JavaScript**
 
