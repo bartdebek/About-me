@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python, Django, REST API, JavaScript, Vue.JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bartdebek](https://github.com/bartdebek)
-
 - 📫 How to reach me **bdebek2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
